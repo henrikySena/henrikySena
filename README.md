@@ -1,16 +1,19 @@
 ## Olá, Eu sou o Henriky Sena!
 
+Atualmente no 5º e penúltimo semestre do curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado pela análise de dados e pela criação de dashboards.
+
+<!-- status nao funciona mais :/
 <div>
-<!-- <a href="https://github.com/henrikySena"> -->
+<!-- <a href="https://github.com/henrikySena">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrikySena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikySena&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+-->
 
-## Tecnologias que eu uso:
 
+<br>
 <div style="display: inline_block">
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
   <img align="center" alt="pgadmin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="powerbi" height="30" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
@@ -21,7 +24,19 @@
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div><br/>
 
-Apaixonado pela análise de dados e pela criação de dashboards.
+##
+
+<!-- Links para minhas redes
+##
+<div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+
 
 <!-- ## Minhas certificações: -->
 
