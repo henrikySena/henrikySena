@@ -10,8 +10,8 @@ Atualmente no 5º e penúltimo semestre do curso de Análise e Desenvolvimento d
 </div>
 -->
 
-
 <br>
+
 <div style="display: inline_block">
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
@@ -26,23 +26,23 @@ Atualmente no 5º e penúltimo semestre do curso de Análise e Desenvolvimento d
 
 ##
 
-<!-- Links para minhas redes
-##
 <div> 
-  <a href="https://www.linkedin.com/in/henriky-sena-643010234/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
-
-<!-- ## Minhas certificações: -->
-
+  <a href="https://www.linkedin.com/in/henriky-sena-643010234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:henriky.sena55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://henrikysena.github.io/"><img src="https://img.shields.io/badge/-Portfólio-%236e3822?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 
 <!--
+  <a href="https://www.instagram.com/henriky_sena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="Color=white" target="_blank"></a> 
+  
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+--> 
+
+</div>
+
+<!-- ## Minhas certificações:
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
@@ -60,7 +60,6 @@ Atualmente no 5º e penúltimo semestre do curso de Análise e Desenvolvimento d
   <img src="https://github-readme-stats.vercel.app/api?username=henrikySena&show_icons=true" />
 </picture>
 
-## Ferramentas que eu trabalho:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
