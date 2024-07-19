@@ -2,12 +2,9 @@
 
 Atualmente no 5º e penúltimo semestre do curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado pela análise de dados e pela criação de dashboards.
 
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrikySena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrikySena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikySena&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
 
 <br>
 
@@ -30,16 +27,6 @@ Atualmente no 5º e penúltimo semestre do curso de Análise e Desenvolvimento d
   <a href="https://www.linkedin.com/in/henriky-sena-643010234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:henriky.sena55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://henrikysena.github.io/"><img src="https://img.shields.io/badge/-Portfólio-%236e3822?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-
-
-<!--
-  <a href="https://www.instagram.com/henriky_sena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="Color=white" target="_blank"></a> 
-  
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
---> 
-
 </div>
 
 <!-- ## Minhas certificações:
