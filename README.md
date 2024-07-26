@@ -2,9 +2,9 @@
 
 Atualmente no 5º e penúltimo semestre do curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado pela análise de dados e pela criação de dashboards.
 
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrikySena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrikySena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikySena&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+</div>-->
 
 <br>
 
