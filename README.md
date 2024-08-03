@@ -1,14 +1,9 @@
-## Olá, Eu sou o Henriky Sena! 🖐️
+## Olá, Eu sou o Henriky Sena! 👓
 
   <a href="https://www.linkedin.com/in/henriky-sena-643010234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:henriky.sena55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://henrikysena.github.io/"><img src="https://img.shields.io/badge/-Portfólio-%236e3822?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "https://henrikysena.github.io/"><img src="https://img.shields.io/badge/-Instagram-%23e4405f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrikySena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-
+  <a href = "https://www.instagram.com/henriky_sena/"><img src="https://img.shields.io/badge/-Instagram-%23e4405f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -24,10 +19,11 @@
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
+
 <br>
 
 Atualmente no 5º e penúltimo semestre do curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado pela ciência de dados e pela simplificação dos dados através de dashboards que possam melhorar a compreensão do usuário.
-
+<br>
 
 ### Minhas Certificações:
 - [Power BI Completo - Do Básico ao Avançado](https://www.udemy.com/certificate/UC-44b8d7aa-ec74-4530-97f9-649730ef5c87/)<br/>
