@@ -26,6 +26,7 @@ Atualmente no 5º e penúltimo semestre do curso de Análise e Desenvolvimento d
 <br>
 
 ### Minhas Certificações:
+- [Python 3 - Mundo 3](https://www.udemy.com/certificate/UC-44b8d7aa-ec74-4530-97f9-649730ef5c87/)<br/>
 - [Power BI Completo - Do Básico ao Avançado](https://www.udemy.com/certificate/UC-44b8d7aa-ec74-4530-97f9-649730ef5c87/)<br/>
 
 
