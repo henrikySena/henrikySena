@@ -29,6 +29,6 @@ Atualmente no 5º e penúltimo semestre do curso de Análise e Desenvolvimento d
 ### Minhas Certificações:
 - [Python 3 - Mundo 3](https://github.com/henrikySena/certificacoes/blob/main/Python03-Mundo03.pdf)<br/>
 - [Power BI Completo - Do Básico ao Avançado](https://www.udemy.com/certificate/UC-44b8d7aa-ec74-4530-97f9-649730ef5c87/)<br/>
-- [SQL para Análise de Dados: Do básico ao avançado](https://www.udemy.com/certificate/UC-a09fff93-1962-49c2-88bb-a4956fd57b07/)<br/>
+- [SQL para Análise de Dados: Do Básico ao Avançado](https://www.udemy.com/certificate/UC-a09fff93-1962-49c2-88bb-a4956fd57b07/)<br/>
 
 
