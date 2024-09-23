@@ -21,7 +21,7 @@
 
 <br>
 
-Atualmente no 5º e penúltimo semestre do curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado pela ciência de dados e pela simplificação dos dados através de dashboards, com foco em melhorar a compreensão e proporcionar a melhor experiência ao usuário!
+Atualmente no 5º e penúltimo semestre do curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado pela ciência de dados e pela simplificação dos dados através de dashboards, melhorando a compreensão e proporcionando a melhor experiência ao usuário!
 <br>
 
 ### Minhas Certificações:
