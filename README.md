@@ -2,7 +2,7 @@
 
   <a href="https://www.linkedin.com/in/henriky-sena-643010234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:henriky.sena55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://henrikysena.github.io/"><img src="https://img.shields.io/badge/-Portfólio-%236e3822?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href = "https://henrikysena.github.io/"><img src="https://img.shields.io/badge/-Portfólio-%23b10035?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "https://www.instagram.com/henriky_sena/"><img src="https://img.shields.io/badge/-Instagram-%23e4405f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
