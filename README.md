@@ -22,10 +22,10 @@
 
 <br>
 
-Atualmente, estou no 5º e penúltimo semestre do curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado pela ciência de dados e pela simplificação de informações por meio de dashboards, facilitando a compreensão e proporcionando a melhor experiência ao usuário!
+Atualmete, no último semestre de Análise e Desenvolvimento de Sistemas - FATEC. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automoção da página web.
 <br>
 
-### Minhas Certificações:
+### Algumas das minhas certificações:
 - [Python 3 - Mundo 3](https://github.com/henrikySena/certificacoes/blob/main/Python03-Mundo03.pdf)<br/>
 - [Power BI Completo - Do Básico ao Avançado](https://www.udemy.com/certificate/UC-44b8d7aa-ec74-4530-97f9-649730ef5c87/)<br/>
 - [SQL para Análise de Dados: Do Básico ao Avançado](https://www.udemy.com/certificate/UC-a09fff93-1962-49c2-88bb-a4956fd57b07/)<br/>
