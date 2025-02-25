@@ -22,7 +22,7 @@
 
 <br>
 
-Atualmete, no último semestre de Análise e Desenvolvimento de Sistemas - FATEC. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automoção da página web.
+Atualmete, no último semestre de Análise e Desenvolvimento de Sistemas - FATEC. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automação da página web.
 <br>
 
 ### Algumas das minhas certificações:
