@@ -7,7 +7,7 @@
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikySena&layout=compact&hide_border=true&title_color=2daf8f&text_color=6200ea&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikySena&bg_color=0d1117&color=2daf8f&line=ffffff&point=2daf8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikySena&bg_color=0d1117&color=2daf8f&line=ffffff52&point=2daf8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=henrikySena&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
