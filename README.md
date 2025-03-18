@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2daf8f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Henriky+Sena!;Tenho+23+anos+;Sou+de+São+Paulo+-+SP;Estou+no+último+semestre+de+ADS+-+FATEC;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=MathFilipeDev&show_icons=true&count_private=true&hide_border=true&title_color=2900dc&icon_color=6200ea&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Filipe github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathFilipeDev&layout=compact&hide_border=true&title_color=6200ea&text_color=6200ea&bg_color=0d1117" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=henrikySena&show_icons=true&count_private=true&hide_border=true&title_color=2daf8f&icon_color=2daf8f&text_color=c9d1d9&bg_color=0d1117" alt="Henriky Sena github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikySena&layout=compact&hide_border=true&title_color=2daf8f&text_color=6200ea&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MathFilipeDev&bg_color=0d1117&color=2900dc&line=6200ea&point=36027e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikySena&bg_color=0d1117&color=2daf8f&line=ffffff&point=2daf8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MathFilipeDev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
