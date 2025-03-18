@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikySena&bg_color=0d1117&color=2daf8f&line=ffffff7c&point=2daf8f&area=true&hide_border=true)]
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henrikySena&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=henrikySena&theme=juicyfresh&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">
