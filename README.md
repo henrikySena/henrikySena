@@ -1,33 +1,57 @@
-## Olá, Eu sou o Henriky Sena! 👓
+<img width="100%" height="auto" style="min-height: 180px; height: 180px;" src="https://capsule-render.vercel.app/api?type=waving&color=2daf8f&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2daf8f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Henriky+Sena!;Tenho+23+anos+;Sou+de+São+Paulo+-+SP;Estou+no+último+semestre+de+ADS+-+FATEC;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
-  <a href="https://www.linkedin.com/in/henriky-sena-643010234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:henriky.sena55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://henrikysena.github.io/"><img src="https://img.shields.io/badge/-Portfólio-%23b10035?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "https://www.instagram.com/henriky_sena/"><img src="https://img.shields.io/badge/-Instagram-%23e4405f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-
-## Ferramentas que utilizo:
-
-<div style="display: inline_block">
-  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-  <img align="center" alt="pgadmin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="powerbi" height="30" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
-  <img align="center" alt="excel" height="30" width="40" src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000"/>
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=MathFilipeDev&show_icons=true&count_private=true&hide_border=true&title_color=2900dc&icon_color=6200ea&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Filipe github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathFilipeDev&layout=compact&hide_border=true&title_color=6200ea&text_color=6200ea&bg_color=0d1117" />
 </div>
 
-<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MathFilipeDev&bg_color=0d1117&color=2900dc&line=6200ea&point=36027e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Atualmete, no último semestre de Análise e Desenvolvimento de Sistemas - FATEC. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automação da página web.
-<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MathFilipeDev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-### Algumas das minhas certificações:
-- [Python 3 - Mundo 3](https://github.com/henrikySena/certificacoes/blob/main/Python03-Mundo03.pdf)<br/>
-- [Power BI Completo - Do Básico ao Avançado](https://www.udemy.com/certificate/UC-44b8d7aa-ec74-4530-97f9-649730ef5c87/)<br/>
-- [SQL para Análise de Dados: Do Básico ao Avançado](https://www.udemy.com/certificate/UC-a09fff93-1962-49c2-88bb-a4956fd57b07/)<br/>
+<div align="center">
+  <a href="https://instagram.com/matt.with2ts" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:math.filipe23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-filipe-b383312b3/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+ 
+### Main skills:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+
+ 
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![macOS](https://img.shields.io/badge/-macOS-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+
+ 
+### Other Knowledge:
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MathFilipeDev}/count.svg" /></p> 
+<br></div>
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36027e&height=120&section=footer"/>
