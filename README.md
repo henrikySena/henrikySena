@@ -1,6 +1,6 @@
 <img width="100%" height="auto" style="min-height: 180px; height: 180px;" src="https://capsule-render.vercel.app/api?type=waving&color=F45A58&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F45A58&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Henriky+Sena!;I'm+23+years+old;I'm+from+São+Paulo+-+SP;I'm+in+the+last+semester+of+ADS+-+FATEC;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F45A58&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Henriky+Sena!;I'm+23+years+old;I'm+from+São+Paulo+-+BR;I'm+in+the+last+semester+of+ADS+-+FATEC;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=henrikySena&show_icons=true&count_private=true&hide_border=true&title_color=F45A58&icon_color=F45A58&text_color=c9d1d9&bg_color=0d1117" alt="Henriky Sena github stats" /> 
