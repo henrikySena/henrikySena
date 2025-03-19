@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=henrikySena&show_icons=true&count_private=true&hide_border=true&title_color=F45A58&icon_color=F45A58&text_color=c9d1d9&bg_color=0d1117" alt="Henriky Sena github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikySena&layout=compact&hide_border=true&title_color=F45A58&text_color=6200ea&bg_color=0d1117" />
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikySena&layout=compact&hide_border=true&title_color=F45A58&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikySena&bg_color=0d1117&color=F45A58&line=ffffff7c&point=F45A58&area=true&hide_border=true)
