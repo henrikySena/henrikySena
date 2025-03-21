@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://henrikysena.github.io//" target="_blank">
+  <a href="https://henrikysena.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-%23B10035?style=for-the-badge&logo=none&logoColor=white" />
   </a>
   
