@@ -26,7 +26,7 @@ Sou Henriky Sena, atualmente no **último semestre de Análise e Desenvolvimento
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikySena&bg_color=0d1117&color=F45A58&line=ffffff7c&point=F45A58&area=true&hide_border=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henrikySena&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=henrikySena&theme=juicyfresh&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">
@@ -43,7 +43,7 @@ Sou Henriky Sena, atualmente no **último semestre de Análise e Desenvolvimento
   </a>
   
   <a href="https://henrikysena.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%23F45A58?style=for-the-badge&logo=none&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfólio-%23B10035?style=for-the-badge&logo=none&logoColor=white" />
   </a>
   
   <a href="https://www.behance.net/henrikysena" target="_blank">
