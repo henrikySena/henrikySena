@@ -4,18 +4,19 @@
 
 ## Sobre Mim
 
-Sou Henriky Sena, atualmente no **último semestre de Análise e Desenvolvimento de Sistemas** na **FATEC São Paulo**. Tenho 23 anos e sou apaixonado por **ciência de dados**, **UX/UI Design** e **desenvolvimento web**. Durante minha jornada acadêmica, tenho me aprofundado em **Python**, **SQL**, **Power BI** e **React**. No meu portfólio, busco sempre simplificar informações complexas, criando soluções eficientes para os usuários.
+Sou Henriky Sena, **Estagiário na Prefeitura de Ferraz de Vasconcelos** e no último semestre de **Análise e Desenvolvimento de Sistemas - FATEC**. Tenho 23 anos e sou apaixonado por **UX/UI Design** e **Desenvolvimento Web**. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automoção da página web. Sou especializado em Figma, HTML/CSS, Tailwindcss, JavaScript e React.
 
 ### 📚 Formação Acadêmica
-- **Análise e Desenvolvimento de Sistemas** - **FATEC São Paulo** (2023 - presente)
+- **Análise e Desenvolvimento de Sistemas, FATEC - São Paulo** (2022 - presente)
+- **Design Bacharelado, USJT - Campus Paulista** (2021 - 2022)
 
 ### 💼 Experiência Profissional
-- **Estágio em Análise de Dados**: Atuação em projetos de visualização de dados e construção de dashboards interativos utilizando **Power BI**.
-- **Freelancer em UX/UI Design**: Desenvolvimento de interfaces e experiências de usuário para **aplicativos móveis** e **sites** utilizando **Figma**.
+- **Estagiário em suporte técnico e T.I**: Atuação em projetos da prefeitura, desenvolvendo e aprimorando interfaces digitais interativas com foco em otimizar a experiência do usuário e tornar os sistemas mais intuitivos e eficientes, além de buscar a melhoria contínua dos processos existentes e aumentar sua usabilidade.
+- **Freelancer em UX/UI Design**: Desenvolvimento de interfaces e experiências de usuário para **aplicativos móveis** e **plataformas digitais**.
 
 ### 🚀 Projetos em Destaque
-- **[Sistema de Gerenciamento de Confeitarias](link-do-repositorio)**: Um sistema para gestão de confeitarias, desenvolvido em **React** e **Node.js**, com foco na organização de estoque e pedidos.
-- **[Dashboard de Análise de Vendas](link-do-repositorio)**: Um dashboard interativo desenvolvido em **Power BI**, com foco na análise de dados de vendas e desempenho de equipes.
+- **[Sistema de Gerenciamento Ambulância - Prefeitura de Ferraz de Vasconcelos](link-do-repositorio)**: Um sistema para o controle dos dados das ambulâncias do município de Ferraz de Vasconcelos, desenvolvido em **React**.
+- **[Sistema Gerenciador de Confeitarias](link-do-repositorio)**: Um sistema para gestão de confeitarias, desenvolvido em **React** e **Node.js**, com foco na organização de estoque e pedidos.
 - **[Portfólio Pessoal](https://henrikysena.github.io)**: Meu portfólio, onde compartilho projetos e conquistas, além de interações com clientes através de formulários dinâmicos.
 
 <div align="center">  
