@@ -16,7 +16,7 @@ Sou Henriky Sena, **Estagiário na Prefeitura de Ferraz de Vasconcelos** e no ú
 
 ### 🚀 Projetos em Destaque
 - **[Gerenciador de Confeitarias](link-do-repositorio)**: Um sistema para gestão de confeitarias, desenvolvido em **React** e **Node.js**, com foco na organização de estoque e pedidos.
-- **[Sistema de Gerenciamento das Ambulância do município de Ferraz de Vasconcelos](link-do-repositorio)**: Um sistema para o controle dos dados das ambulâncias do município de Ferraz de Vasconcelos, desenvolvido em **React**.
+- **[Gerenciador de Ambulâncias](link-do-repositorio)**: Um sistema para o controle dos dados das ambulâncias do município de Ferraz de Vasconcelos, desenvolvido em **React**.
 - **[Portfólio Pessoal](https://henrikysena.github.io)**: Meu portfólio, onde compartilho projetos e conquistas, além de interações com clientes através de formulários dinâmicos.
 
 <div align="center">  
