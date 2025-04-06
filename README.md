@@ -2,19 +2,7 @@
 
 ## Sobre Mim
 
-Olá, sou Henriky Sena! **Estagiário na Prefeitura de Ferraz de Vasconcelos** e no último semestre de **Análise e Desenvolvimento de Sistemas - FATEC**. Tenho 23 anos e sou apaixonado pelo **Desenvolvimento Web**. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automoção da página web. Sou especializado em Figma, HTML/CSS, Tailwindcss, JavaScript e React.
-
-Tenho um interesse especial por **interfaces bem feitas**, que combinam simplicidade com uma boa experiência para o usuário. Gosto de cuidar dos detalhes nos projetos para tornar a interação mais intuitiva e agradável.
-
-Sou **autodidata** e gosto de aprender criando. Tenho preferência por enfrentar desafios reais e entender as tecnologias conforme as aplico no desenvolvimento. Atualmente, estou me dedicando ao meu projeto ***Swampp***, uma loja de roupas desenvolvida com **JavaScript Vanilla**.
-
-### 📚 Formação Acadêmica
-- **Análise e Desenvolvimento de Sistemas, FATEC - São Paulo** (2022 - No momento)
-- **Design Bacharelado, USJT - Campus Paulista** (2021 - 2022)
-
-### 💼 Experiência Profissional
-- **Estagiário em suporte técnico e T.I**: Atuação em projetos da prefeitura, desenvolvendo e aprimorando interfaces digitais interativas com foco em otimizar a experiência do usuário e tornar os sistemas mais intuitivos e eficientes, além de buscar a melhoria contínua dos processos existentes e aumentar sua usabilidade.
-- **Freelancer em UX/UI Design**: Desenvolvimento de interfaces e experiências de usuário para **aplicativos móveis** e **plataformas digitais**.
+Olá, sou Henriky Sena! **Estagiário na Prefeitura de Ferraz de Vasconcelos** e no último semestre de **Análise e Desenvolvimento de Sistemas - FATEC**. Tenho 23 anos e sou apaixonado pelo **Desenvolvimento Web**. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automoção da página web. Sou especializado em Figma, HTML/CSS, JavaScript e React.
 
 ### 🚀 Projetos em Destaque
 - **[Gerenciador de Confeitarias](link-do-repositorio)**: Um sistema para gestão de confeitarias, desenvolvido em **React** e **Node.js**, com foco na organização de estoque e pedidos.
