@@ -1,5 +1,3 @@
-<img width="100%" height="auto" style="min-height: 180px; height: 180px;" src="https://capsule-render.vercel.app/api?type=waving&color=F45A58&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F45A58&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Henriky+Sena!;I'm+23+years+old;I'm+from+São+Paulo+-+BR;I'm+in+the+last+semester+of+ADS+-+FATEC;Welcome!+:%29)](https://git.io/typing-svg)
 
 ## Sobre Mim
@@ -55,5 +53,3 @@ Sou **autodidata** e gosto de aprender criando. Tenho preferência por enfrentar
     <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F45A58&height=120&section=footer"/>
