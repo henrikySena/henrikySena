@@ -4,7 +4,11 @@
 
 ## Sobre Mim
 
-Sou Henriky Sena, **Estagiário na Prefeitura de Ferraz de Vasconcelos** e no último semestre de **Análise e Desenvolvimento de Sistemas - FATEC**. Tenho 23 anos e sou apaixonado por **UX/UI Design** e **Desenvolvimento Web**. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automoção da página web. Sou especializado em Figma, HTML/CSS, Tailwindcss, JavaScript e React.
+Olá, sou Henriky Sena! **Estagiário na Prefeitura de Ferraz de Vasconcelos** e no último semestre de **Análise e Desenvolvimento de Sistemas - FATEC**. Tenho 23 anos e sou apaixonado pelo **Desenvolvimento Web**. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automoção da página web. Sou especializado em Figma, HTML/CSS, Tailwindcss, JavaScript e React.
+
+Tenho um interesse especial por **interfaces bem feitas**, que combinam simplicidade com uma boa experiência para o usuário. Gosto de cuidar dos detalhes nos projetos para tornar a interação mais intuitiva e agradável.
+
+Sou **autodidata** e gosto de aprender criando. Tenho preferência por enfrentar desafios reais e entender as tecnologias conforme as aplico no desenvolvimento. Atualmente, estou me dedicando ao meu projeto ***Swampp***, uma loja de roupas desenvolvida com **JavaScript Vanilla**.
 
 ### 📚 Formação Acadêmica
 - **Análise e Desenvolvimento de Sistemas, FATEC - São Paulo** (2022 - No momento)
