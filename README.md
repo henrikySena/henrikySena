@@ -5,9 +5,10 @@
 Olá, sou Henriky Sena! **Estagiário na Prefeitura de Ferraz de Vasconcelos** e no último semestre de **Análise e Desenvolvimento de Sistemas - FATEC**. Tenho 23 anos e sou apaixonado pelo **Desenvolvimento Web**. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automoção da página web. Sou especializado em Figma, HTML/CSS, JavaScript e React.
 
 ### 🚀 Projetos em Destaque
-- **[Gerenciador de Confeitarias](link-do-repositorio)**: Um sistema para gestão de confeitarias, desenvolvido em **React** e **Node.js**, com foco na organização de estoque e pedidos.
-- **[Gerenciador de Ambulâncias](link-do-repositorio)**: Um sistema para o controle dos dados das ambulâncias do município de Ferraz de Vasconcelos-SP, desenvolvido em **React**.
-- **[Portfólio Pessoal](https://henrikysena.github.io)**: Meu portfólio, onde compartilho projetos e conquistas, além de interações com clientes através de formulários dinâmicos.
+- **[Swampp](link-do-repositorio)**: E-commerce simples para uma loja de roupas, desenvolvido inteiramente com JavaScript Vanilla, com foco em reforçar minha base na linguagem. O projeto explora conceitos fundamentais como manipulação do DOM, tratamento de eventos e modularização de código.
+- **[Mussie](link-do-repositorio)**: Sistema de apoio à gestão de confeitarias, desenvolvida com React e Node.js para gerenciamento completo de confeitarias, com foco em controle de estoque, pedidos e na usabilidade intuitiva.
+- **[Ambulâncias](link-do-repositorio)**: Aplicação voltada ao setor público, criada em React, para registro e monitoramento da frota de ambulâncias do município de Ferraz de Vasconcelos-SP.
+- **[Portfólio Pessoal](https://henrikysena.github.io)**: Meu site pessoal, onde compartilho projetos e experiências, com atenção à performance e responsividade.
 
 ##
 
