@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff91&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Henriky+Sena!;I'm+23+years+old;I'm+from+São+Paulo+-+BR;I'm+in+the+last+semester+of+ADS+-+FATEC;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BE9A8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Henriky+Sena!;I'm+23+years+old;I'm+from+São+Paulo+-+BR;I'm+in+the+last+semester+of+ADS+-+FATEC;Welcome!+:%29)](https://git.io/typing-svg)
 
 ## Sobre Mim 👓
 
@@ -37,11 +37,11 @@ Olá, sou Henriky Sena! **Estagiário na Prefeitura de Ferraz de Vasconcelos** e
 ##
 
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=henrikySena&show_icons=true&count_private=true&hide_border=true&title_color=00ff91&icon_color=00ff91&text_color=c9d1d9&bg_color=0d1117" alt="Henriky Sena github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikySena&layout=compact&hide_border=true&title_color=00ff91&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=henrikySena&show_icons=true&count_private=true&hide_border=true&title_color=9BE9A8&icon_color=9BE9A8&text_color=c9d1d9&bg_color=0d1117" alt="Henriky Sena github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikySena&layout=compact&hide_border=true&title_color=9BE9A8&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikySena&bg_color=0d1117&color=00ff91&line=ffffff7c&point=00ff91&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikySena&bg_color=0d1117&color=9BE9A8&line=ffffff7c&point=9BE9A8&area=true&hide_border=true)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=henrikySena&theme=juicyfresh&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
