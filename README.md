@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F45A58&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Henriky+Sena!;I'm+23+years+old;I'm+from+São+Paulo+-+BR;I'm+in+the+last+semester+of+ADS+-+FATEC;Welcome!+:%29)](https://git.io/typing-svg)
 
-## Sobre Mim
+## Sobre Mim 👓
 
 Olá, sou Henriky Sena! **Estagiário na Prefeitura de Ferraz de Vasconcelos** e no último semestre de **Análise e Desenvolvimento de Sistemas - FATEC**. Tenho 23 anos e sou apaixonado pelo **Desenvolvimento Web**. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automoção da página web. Sou especializado em Figma, HTML/CSS, JavaScript e React.
 
