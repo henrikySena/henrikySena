@@ -6,8 +6,11 @@ Olá, sou Henriky Sena! **Estagiário na Prefeitura de Ferraz de Vasconcelos** e
 
 ### 🚀 Projetos em Destaque
 - **[Swampp](https://github.com/henrikySena/swampp)**: E-commerce simples para uma loja de roupas, desenvolvido inteiramente com JavaScript Vanilla, com foco em reforçar minha base na linguagem. O projeto explora conceitos fundamentais como manipulação do DOM, tratamento de eventos e modularização de código.
+  #
 - **[Mussie](https://henrikysena.github.io/mussie-publish/main/index.html)**: Sistema de apoio à gestão de confeitarias, desenvolvida com React e Node.js para gerenciamento completo de confeitarias, com foco em controle de estoque, pedidos e na usabilidade intuitiva.
+  #
 - **[Gamun](link-do-repositorio)**: O Gamun (Gerenciador de Ambulâncias Municipais) é uma aplicação desenvolvida em React e TypeScript, voltada para o setor público. Criado para atender às demandas do município de Ferraz de Vasconcelos - SP, o sistema permite o registro e monitoramento da frota de ambulâncias, além de funcionalidades como o cadastro de pacientes, criação de fichas de atendimento e o controle de manutenções dos veículos.
+  #
 - **[Portfólio Pessoal](https://henrikysena.github.io)**: Meu site pessoal, onde compartilho projetos e experiências, com atenção à performance e responsividade.
 
 ##
