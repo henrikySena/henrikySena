@@ -6,7 +6,7 @@
 Olá, sou Henriky Sena! **Estagiário na Prefeitura de Ferraz de Vasconcelos** e no último semestre de **Análise e Desenvolvimento de Sistemas - FATEC**. Tenho 23 anos e sou apaixonado pelo **Desenvolvimento Web**. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automoção da página web. Sou especializado em Figma, HTML/CSS, JavaScript e React.
 
 ### 🚀 Projetos em Destaque
-- **[Swampp](https://github.com/henrikySena/swampp)**: E-commerce simples para uma loja de roupas, desenvolvido inteiramente com JavaScript Vanilla, com foco em reforçar minha base na linguagem. O projeto explora conceitos fundamentais como manipulação do DOM, tratamento de eventos e modularização de código.
+- **[Swampp](https://github.com/henrikySena/swampp)**: E-commerce simples para uma loja de roupas, desenvolvido exclusivamente em JavaScript Vanilla, com foco em reforçar minha base na linguagem. O projeto explora conceitos fundamentais como manipulação do DOM, tratamento de eventos e modularização de código.
   #
 - **[Mussie](https://henrikysena.github.io/mussie-publish/main/index.html)**: Landing Page para o Sistema de Gestão de Confeitarias Mussie. Desenvolvido em HTML5/CSS3 e JavaScript, a interface foi projetada com foco em responsividade, acessibilidade e experiência do usuário. O sistema completo está sendo desenvolvido com React e Node.js, oferecendo funcionalidades como controle de estoque, gerenciamento de pedidos e uma navegação intuitiva voltada para o setor de confeitarias.
   #
