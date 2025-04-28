@@ -3,7 +3,7 @@
 
 ## Sobre Mim 👓
 
-Olá, meu nome é Henriky Sena, sou **Estagiário na Prefeitura de Ferraz de Vasconcelos** e estou no último semestre de **Análise e Desenvolvimento de Sistemas - FATEC**. Tenho 23 anos e sou apaixonado pelo **Desenvolvimento Web**. Atuo em todo o desenvolvimento Front-end: desde a idelização da interface, passando pela trajetória do usuário até a criação e automoção da página web. Sou especializado em Figma, HTML/CSS, JavaScript e React.
+Olá, meu nome é Henriky Sena, sou **Estagiário na Prefeitura de Ferraz de Vasconcelos** e estou no último semestre de **Análise e Desenvolvimento de Sistemas - FATEC**. Tenho 23 anos e sou apaixonado pelo **Desenvolvimento Web**. Atuo em todo o desenvolvimento Front-end: desde a idealização da interface, passando pela trajetória do usuário até a criação e automoção da página web. Sou especializado em Figma, HTML/CSS, JavaScript e React.
 
 ### 🚀 Projetos em Destaque
 - **[Swampp](https://github.com/henrikySena/swampp)**: E-commerce simples para uma loja de roupas, desenvolvido exclusivamente em JavaScript Vanilla, com foco em reforçar minha base na linguagem. O projeto explora conceitos fundamentais como manipulação do DOM, tratamento de eventos e modularização de código.
