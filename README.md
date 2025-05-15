@@ -27,11 +27,11 @@ Olá, meu nome é Henriky Sena, sou **Estagiário na Prefeitura de Ferraz de Vas
 
 
 ### 🚀 Projetos em Destaque
-- **[Swampp](https://github.com/henrikySena/swampp)**: E-commerce simples para uma loja de roupas, desenvolvido exclusivamente em JavaScript Vanilla, com foco em reforçar minha base na linguagem. O projeto explora conceitos fundamentais como manipulação do DOM, tratamento de eventos e modularização de código.
+- **[Swampp](https://github.com/henrikySena/swampp)**: E-commerce simples para loja de roupas e artigos esportivos, desenvolvido totalmente em **JavaScript Vanilla** e **Node.js**. O projeto tem como objetivo fortalecer minha base na linguagem, abordando conceitos essenciais como manipulação do DOM, tratamento de eventos, modularização de código e o desafio de estruturar uma aplicação web completa sem o uso de frameworks.
   #
-- **[Mussie](https://henrikysena.github.io/mussie-publish/main/index.html)**: Landing Page para o Sistema de Gestão de Confeitarias Mussie. Desenvolvido em HTML5/CSS3 e JavaScript, a interface foi projetada com foco em responsividade, acessibilidade e experiência do usuário. O sistema completo está sendo desenvolvido com React e Node.js, oferecendo funcionalidades como controle de estoque, gerenciamento de pedidos e uma navegação intuitiva voltada para o setor de confeitarias.
+- **[Mussie](https://henrikysena.github.io/mussie-publish/main/index.html)**: Landing Page para o Sistema de Gestão de Confeitarias Mussie. Desenvolvido em **HTML5/CSS3** e **JavaScript**, a interface foi projetada com foco em responsividade, acessibilidade e experiência do usuário. O sistema completo está sendo desenvolvido com **React** e **Node.js**, oferecendo funcionalidades como controle de estoque, gerenciamento de pedidos e uma navegação intuitiva voltada para o setor de confeitarias.
   #
-- **[Gamun](link-do-repositorio)**: O Gamun (Gerenciador de Ambulâncias Municipais) é uma aplicação desenvolvida em React e TypeScript, voltada para o setor público. Criado para atender às demandas do município de Ferraz de Vasconcelos - SP, o sistema permite o registro e monitoramento da frota de ambulâncias, além de funcionalidades como o cadastro de pacientes, criação de fichas de atendimento e o controle de manutenções dos veículos.
+- **[Gamun](link-do-repositorio)**: O Gamun (Gerenciador de Ambulâncias Municipais) é uma aplicação desenvolvida em **React e TypeScript**, voltada para o setor público. Criado para atender às demandas do município de Ferraz de Vasconcelos - SP, o sistema permite o registro e monitoramento da frota de ambulâncias, além de funcionalidades como o cadastro de pacientes, criação de fichas de atendimento e o controle de manutenções dos veículos.
   #
 - **[Portfólio Pessoal](https://henrikysena.github.io)**: Meu site pessoal, onde compartilho projetos e experiências, com atenção à performance e responsividade.
 
