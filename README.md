@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BE9A8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Henriky+Sena!;Tenho+24+anos;Sou+de+São+Paulo+-+SP;Estou+no+último+semestre+de+ADS+-+FATEC;Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BE9A8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Henriky+Sena!;Tenho+24+anos;Sou+de+São+Paulo+-+SP;Estou+no+último+semestre+de+ADS+-+FATEC;Bem-vindo!+:%5D)](https://git.io/typing-svg)
 
 
 ## Sobre Mim 👓
