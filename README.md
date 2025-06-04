@@ -35,7 +35,7 @@ No momento, sou especializado em JavaScript, React, Figma e HTML/CSS.
   #
 - **[Mussie](https://henrikysena.github.io/mussie-publish/main/index.html)**: Landing Page para o Sistema de Gestão de Confeitarias Mussie. Desenvolvido em **HTML5/CSS3** e **JavaScript**, a interface foi projetada com foco em responsividade, acessibilidade e experiência do usuário. O sistema completo está sendo desenvolvido com **React** e **Node.js**, oferecendo funcionalidades como controle de estoque, gerenciamento de pedidos e uma navegação intuitiva voltada para o setor de confeitarias.
   #
-- **[Gamun](link-do-repositorio)**: O Gamun (Gerenciador de Ambulâncias Municipais) é uma aplicação desenvolvida em **React e TypeScript**, voltada para o setor público. Criado para atender às demandas do município de Ferraz de Vasconcelos - SP, o sistema permite o registro e monitoramento da frota de ambulâncias, além de funcionalidades como o cadastro de pacientes, criação de fichas de atendimento e o controle de manutenções dos veículos.
+- **[Gamun](https://www.behance.net/gallery/226562911/Gamun-Gerenciador-de-Ambulancias-Municipais)**: O Gamun (Gerenciador de Ambulâncias Municipais) é uma aplicação desenvolvida em **React e TypeScript**, voltada para o setor público. Criado para atender às demandas do município de Ferraz de Vasconcelos - SP, o sistema permite o registro e monitoramento da frota de ambulâncias, além de funcionalidades como o cadastro de pacientes, criação de fichas de atendimento e o controle de manutenções dos veículos.
   #
 - **[Portfólio Pessoal](https://henrikysena.github.io)**: Meu site pessoal, onde compartilho projetos e experiências, com atenção à performance e responsividade.
 
