@@ -1,7 +1,7 @@
-<h1 align="center">👨‍💻 Henriky Sena | Cybersecurity Enthusiast</h1>
+<h1 align="center">👨‍💻 Henriky Sena | Pentester • Red Team • Cybersecurity</h1>
 
 <p align="center">
-  <em>Migrando de Front-End para o universo da Cibersegurança, com foco em Pentest, Segurança de Redes e Defesa Cibernética.</em>
+  <em>Foco em Pentest, Red Team e Segurança de Redes.</em>
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 
 🎓 Atualmente no último semestre de Análise e Desenvolvimento de Sistemas (FATEC-SP).  
 🔁 Em transição de carreira: do Front-End para a Cibersegurança.  
-⚔️ Apaixonado por testes de intrusão (Pentest), análise de vulnerabilidades e simulações de ataques em ambientes controlados.  
-📚 Aprendizado autodidata guiado por prática, labs e documentações próprias.
+⚔️ Focado em **Testes de Intrusão (Pentest)**, **Red Team** e simulações ofensivas em ambientes controlados.  
+📚 Aprendizado autodidata, com base prática em laboratórios, CTFs e projetos próprios documentados.
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 🔒 Aviso Legal
 
-> Todos os testes, scripts e explorações presentes neste perfil são realizados **exclusivamente em ambientes isolados, locais e controlados** (máquinas virtuais ou rede pessoal), **sem qualquer violação de sistemas ou redes de terceiros**. O objetivo é puramente **educacional** e **ético**, conforme os princípios da cibersegurança responsável.
+> Todos os testes, scripts e explorações presentes neste perfil são realizados **exclusivamente em ambientes isolados, locais e controlados** (máquinas virtuais ou rede pessoal), **sem qualquer violação de sistemas ou redes de terceiros**. O objetivo é puramente **educacional** e **ético**, conforme os princípios da cibersegurança responsável.  
 >
 > **O conteúdo destes repositórios deve ser utilizado apenas para fins de estudo e referência**. Qualquer uso fora desse contexto é de inteira responsabilidade do usuário e pode violar leis ou políticas de uso aceitável.
 
@@ -55,7 +55,7 @@
 - 🌐 [LinkedIn](https://linkedin.com/in/seu-usuario)
 - 💼 [Portfólio Front-End](https://github.com/seu-usuario)
 - 🎨 [Projetos UI/UX](https://behance.net/seu-usuario)
-- ✉️ henriky.seuemail@email.com
+- ✉️ henriky.sena55@gmail.com
 
 ---
 
