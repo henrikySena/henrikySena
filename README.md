@@ -17,7 +17,7 @@
 🎓 Atualmente no último semestre de Análise e Desenvolvimento de Sistemas (FATEC-SP).  
 🔁 Em transição de carreira: do Front-End para a Cibersegurança.  
 ⚔️ Focado em **Testes de Intrusão (Pentest)**, **Red Team** e simulações ofensivas em ambientes controlados.  
-📚 Aprendizado autodidata, com base prática em laboratórios, CTFs e projetos próprios documentados.
+📚 Aprendizado através de estudos pessoais, com base prática em laboratórios, CTFs e projetos próprios documentados.
 
 ---
 
@@ -37,7 +37,7 @@
 
 - 🖥️ **Sistemas:** Kali Linux, Ubuntu, Windows VM
 - 🔧 **Ferramentas:** Nmap, Wireshark, Burp Suite, Metasploit, netcat, John the Ripper
-- 📜 **Linguagens:** Bash, Python, SQL, HTML/CSS (front-end legacy)
+📜 **Linguagens:** Bash, PowerShell, Python, SQL, HTML/CSS (front-end legacy)
 - ⚙️ **Conceitos:** Redes, OSI/TCP-IP, Pentest, Footprinting, Enumeração, OWASP Top 10
 
 ---
