@@ -45,6 +45,8 @@
 ## 🔒 Aviso Legal
 
 > Todos os testes, scripts e explorações presentes neste perfil são realizados **exclusivamente em ambientes isolados, locais e controlados** (máquinas virtuais ou rede pessoal), **sem qualquer violação de sistemas ou redes de terceiros**. O objetivo é puramente **educacional** e **ético**, conforme os princípios da cibersegurança responsável.
+>
+> **O conteúdo destes repositórios deve ser utilizado apenas para fins de estudo e referência**. Qualquer uso fora desse contexto é de inteira responsabilidade do usuário e pode violar leis ou políticas de uso aceitável.
 
 ---
 
