@@ -17,7 +17,7 @@
 🎓 Atualmente no último semestre de Análise e Desenvolvimento de Sistemas (FATEC-SP).  
 🔁 Em transição de carreira: do Front-End para a Cibersegurança.  
 ⚔️ Apaixonado por testes de intrusão (Pentest), análise de vulnerabilidades e simulações de ataques em ambientes controlados.  
-📚 Aprendizado guiado por prática, labs e documentações próprias.
+📚 Aprendizado autodidata guiado por prática, labs e documentações próprias.
 
 ---
 
