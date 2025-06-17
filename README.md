@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Kali-informational?logo=linux" alt="Kali Linux Badge"/>
+  <img src="https://img.shields.io/badge/VirtualBox-6.1-blue?logo=virtualbox" alt="VirtualBox Badge"/>
   <img src="https://img.shields.io/badge/Tools-Nmap|Wireshark|Burp-red" alt="Tools Badge"/>
   <img src="https://img.shields.io/badge/Learning-CTFs%20%26%20Pentest-blue" alt="Learning Badge"/>
 </p>
