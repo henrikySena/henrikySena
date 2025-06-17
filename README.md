@@ -25,7 +25,7 @@
 
 | Projeto | Descrição |
 |--------|------------|
-| [`pentests`](https://github.com/seu-usuario/pentests) | Testes de intrusão documentados: ARP Spoofing, XSS, SQLi, etc. |
+| [`pentests`](https://github.com/henrikySena/pentests) | Testes de intrusão documentados: ARP Spoofing, XSS, SQLi, etc. |
 | [`relatorios`](https://github.com/seu-usuario/relatorios) | Relatórios técnicos e executivos simulando entregas profissionais. |
 | [`ctfs`](https://github.com/seu-usuario/ctfs) | Resoluções e análises de desafios do TryHackMe, HTB e VulnHub. |
 | [`laboratorios`](https://github.com/seu-usuario/laboratorios) | Aplicações e ambientes criados por mim para testes de exploração. |
