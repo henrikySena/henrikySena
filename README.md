@@ -53,9 +53,9 @@
 
 ## 📫 Contato
 
-- 🌐 [LinkedIn](https://linkedin.com/in/seu-usuario)
-- 💼 [Portfólio Front-End](https://github.com/seu-usuario)
-- 🎨 [Projetos UI/UX](https://behance.net/seu-usuario)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/henriky-sena-643010234/)
+- 💼 [Portfólio Front-End](https://henrikysena.github.io/)
+- 🎨 [Projetos UI/UX](https://behance.net/henrikysena)
 - ✉️ henriky.sena55@gmail.com
 
 ---
