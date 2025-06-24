@@ -38,7 +38,7 @@
 
 - 🖥️ **Sistemas:** Kali Linux, Ubuntu, Windows VM
 🔧 Ferramentas de pentest e análise: Nmap, Wireshark, Burp Suite, Metasploit, netcat, John the Ripper  
-📜 **Linguagens:** Bash, PowerShell, Python, SQL, HTML/CSS (front-end legacy)
+📜 **Linguagens:** Bash, PowerShell, Python, SQL, HTML/CSS e JavaScript (front-end legacy)
 - ⚙️ **Conceitos:** Redes, OSI/TCP-IP, Pentest, Footprinting, Enumeração, OWASP Top 10
 
 ---
