@@ -5,11 +5,22 @@
 </p>
 
 <p align="center">
+  <!-- Sistemas e Ambiente -->
   <img src="https://img.shields.io/badge/Linux-Kali-informational?logo=linux" alt="Kali Linux Badge"/>
-  <img src="https://img.shields.io/badge/VirtualBox-6.1-blue?logo=virtualbox" alt="VirtualBox Badge"/>
-  <img src="https://img.shields.io/badge/Tools-Nmap|Wireshark|Burp-red" alt="Tools Badge"/>
+  <img src="https://img.shields.io/badge/Virtualization-VirtualBox%206.1-blue?logo=virtualbox" alt="VirtualBox Badge"/>
+
+  <!-- Ferramentas de Reconhecimento -->
+  <img src="https://img.shields.io/badge/Recon-nmap|netdiscover|arp--a|nslookup|dig|whatweb-yellow" alt="Recon Tools Badge"/>
+  <img src="https://img.shields.io/badge/Web%20Enum-curl|gobuster|nikto|sublist3r-orange" alt="Web Enumeration Badge"/>
+  <img src="https://img.shields.io/badge/Network%20Enum-nbtscan|enum4linux|tcpdump-lightgrey" alt="Network Tools Badge"/>
+
+  <!-- Ataques e Interceptação -->
+  <img src="https://img.shields.io/badge/MITM-arpspoof|telnet|nc-red" alt="MITM Tools Badge"/>
+
+  <!-- Aprendizado -->
   <img src="https://img.shields.io/badge/Learning-CTFs%20%26%20Pentest-blue" alt="Learning Badge"/>
 </p>
+
 
 ---
 
