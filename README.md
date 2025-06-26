@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Henriky Sena | Pentester • Red Team • Cybersecurity</h1>
+<h1 align="center">👾 Henriky Sena | Pentester • Red Team • Cybersecurity</h1>
 
 <p align="center">
   <em>Foco em Pentest, Red Team e Segurança de Redes.</em>
