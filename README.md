@@ -1,7 +1,7 @@
 <h1 align="center">👾 Henriky Sena | Pentester • Red Team • Cybersecurity</h1>
 
 <p align="center">
-  <em>Foco em Pentest, Red Team e Segurança de Redes.</em>
+  <em>Foco em Pentest, Red Team, Segurança de Redes e Exploração Web.</em>
 </p>
 
 <p align="center">
