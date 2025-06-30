@@ -28,7 +28,7 @@
 
 ---
 
-## 🛡️ Sobre Mim
+## 👨🏻‍💻 Sobre Mim
 
 🎓 Atualmente no último semestre de Análise e Desenvolvimento de Sistemas (FATEC-SP).  
 🔁 Em transição de carreira: do Front-End para a Cibersegurança.  
