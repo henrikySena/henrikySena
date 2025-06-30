@@ -17,9 +17,13 @@
   <!-- Ataques e Interceptação -->
   <img src="https://img.shields.io/badge/MITM-arpspoof|telnet|nc-red" alt="MITM Tools Badge"/>
 
+  <!-- Ferramentas de Exploração -->
+  <img src="https://img.shields.io/badge/Exploit-SQLMap-critical" alt="SQLMap Badge"/>
+
   <!-- Aprendizado -->
-  <img src="https://img.shields.io/badge/Learning-CTFs%20%26%20Pentest-blue" alt="Learning Badge"/>
+  <img src="https://img.shields.io/badge/Learning-CTFs%20%26%20Honeypot-blue" alt="Learning Badge"/>
 </p>
+
 
 
 ---
