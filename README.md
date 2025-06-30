@@ -52,7 +52,7 @@
 ## 🧰 Tecnologias e Ferramentas
 
 - 🖥️ **Sistemas:** Kali Linux, Ubuntu, Windows VM
-- 🔧 Ferramentas de pentest e análise: Nmap, Wireshark, Burp Suite, Metasploit, netcat, John the Ripper
+- 🔧 Ferramentas de pentest e análise: Nmap, netdiscover, arp -a, nslookup, dig, WhatWeb, curl, Gobuster, Nikto, Sublist3r, nbtscan, enum4linux, tcpdump, arpspoof, telnet, netcat, SQLMap, Wireshark
 - 📜 **Linguagens:** Bash, PowerShell, Python, SQL, HTML/CSS e JavaScript (front-end legacy)
 - ⚙️ **Conceitos:** Redes, OSI/TCP-IP, Pentest, Footprinting, Enumeração, OWASP Top 10
 
