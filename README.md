@@ -74,18 +74,3 @@
 > **Qualquer uso indevido é de inteira responsabilidade do usuário.**
 
 ---
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/henriky-sena-643010234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:henriky.sena55@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://henrikysena.github.io/"><img src="https://img.shields.io/badge/Portfólio%20(legacy)-005BBB?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://behance.net/henrikysena"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Understand%20the%20attack%20to%20strengthen%20the%20defense.-0A84FF?style=for-the-badge&logo=probot&logoColor=white"/>
-</p>
