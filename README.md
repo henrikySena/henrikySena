@@ -1,7 +1,7 @@
-<h1 align="center">👾 Henriky Sena | Pentester • Red Team • Cybersecurity</h1>
+<h1 align="center"> BlueTeam • Cybersecurity</h1>
 
 <p align="center">
-  <em>Foco em Pentest, Red Team, Segurança de Redes e Exploração Web.</em>
+  <em> Boa base em Testes de Intrusão - Pentests | Me aprimorando em Defesa e Monitoramento.</em>
 </p>
 
 <p align="center">
@@ -28,12 +28,11 @@
 
 ---
 
-## 👨🏻‍💻 Sobre Mim
+## 👓 Sobre Mim
 
-🎓 Atualmente no último semestre de Análise e Desenvolvimento de Sistemas (FATEC-SP).  
-🔁 Em transição de carreira: do Front-End para a Cibersegurança.  
-⚔️ Focado em **Testes de Intrusão (Pentest)**, **Red Team** e simulações ofensivas em ambientes controlados.  
-📚 Aprendizado através de estudos pessoais, com base prática em laboratórios, CTFs e projetos próprios documentados.
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela FATEC-SP.  
+🔵 Foco em Defesa, análise de Logs e monitoramento de redes.  
+📚 Aprendizado através de estudos pessoais, com base prática em laboratórios, CTFs e projetos próprios documentados.  
 
 ---
 
@@ -50,14 +49,6 @@
 -->
 ---
 
-## 🧰 Tecnologias e Ferramentas
-
-- 🖥️ **Sistemas:** Kali Linux, Windows 10
-- 🔧 Ferramentas de pentest e análise: Nmap, netdiscover, arp -a, nslookup, dig, WhatWeb, curl, Gobuster, Nikto, Sublist3r, nbtscan, enum4linux, tcpdump, arpspoof, telnet, netcat, SQLMap, Wireshark
-- 📜 **Linguagens:** Bash, PowerShell, Python, SQL, HTML/CSS e JavaScript (front-end legacy)
-- ⚙️ **Conceitos:** Redes, OSI/TCP-IP, Pentest, Footprinting, Enumeração, OWASP Top 10
-
----
 
 ## 🔒 Aviso Legal
 
@@ -75,7 +66,3 @@
 - ✉️ henriky.sena55@gmail.com
 
 ---
-
-<p align="center">
-  <i>“Hack the system, defend the people.”</i>
-</p>
