@@ -19,7 +19,7 @@ Apaixonado por transformar caos em clareza. Atualmente trabalhando com:
 <br>
 
 ## 🌱 Projetos
-(Adicione aqui conforme publicar)
+
 - **🔍 Data Cleaning:** Projeto de tratamento de dados reais com Excel e Python
 - **📊 Visualizações:** Gráficos e dashboards simples
 - **📁 Estudos práticos:** Repositório de exercícios e anotações
