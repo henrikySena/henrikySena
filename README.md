@@ -7,7 +7,7 @@ Sou um **Analista de Dados** focado e apaixonado pelo que faço! Formado em **An
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark)
 
----
+
 
 ## 📊 Área Atual — Análise de Dados
 Apaixonado por transformar caos em clareza. Atualmente trabalhando com:
