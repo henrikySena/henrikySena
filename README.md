@@ -17,18 +17,7 @@ Apaixonado por transformar caos em clareza. Atualmente trabalhando com:
 - **ETL básico**
 - **Visualização de dados**
 
----
 
-## 📈 Métricas & Estatísticas do GitHub
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=henrikysena&show_icons=true&theme=transparent" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=henrikysena&theme=transparent" width="48%" />
-
-</div>
-
----
 
 ## 🌱 Projetos
 (Adicione aqui conforme publicar)
