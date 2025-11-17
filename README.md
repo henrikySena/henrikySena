@@ -16,7 +16,7 @@ Apaixonado por transformar caos em clareza. Atualmente trabalhando com:
 - **ETL básico**
 - **Visualização de dados**
 
----
+<br>
 
 ## 🌱 Projetos
 (Adicione aqui conforme publicar)
@@ -24,7 +24,7 @@ Apaixonado por transformar caos em clareza. Atualmente trabalhando com:
 - **📊 Visualizações:** Gráficos e dashboards simples
 - **📁 Estudos práticos:** Repositório de exercícios e anotações
 
----
+<br>
 
 ## 📫 Contato
 - **LinkedIn:** *https://www.linkedin.com/in/henriky-sena-643010234/*
