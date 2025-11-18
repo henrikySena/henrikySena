@@ -20,9 +20,7 @@ Apaixonado por transformar caos em clareza. Atualmente trabalhando com:
 
 ## 🌱 Projetos
 
-- **🔍 Data Cleaning:** Projeto de tratamento de dados reais com Excel e Python
-- **📊 Visualizações:** Gráficos e dashboards simples
-- **📁 Estudos práticos:** Repositório de exercícios e anotações
+- **🔍Projeto 01: Materiais de Construção:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_01_Materiais_de_Construcao) — Análise exploratória de vendas de uma loja de materiais de construção local, incluindo limpeza de dados, KPIs, tabelas dinâmicas e gráficos.
 
 <br>
 
