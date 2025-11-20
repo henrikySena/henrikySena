@@ -27,4 +27,4 @@ Apaixonado por transformar caos em clareza, para isso utilizo:
 
 ---
 
-**_clareza, foco e consistência_**
+<p align="center"><i>clareza, foco e consistência</i></p>
