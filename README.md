@@ -1,7 +1,7 @@
 # Henriky Sena
 
 ### olá pessoal :]
-Sou um **Analista de Dados** focado e apaixonado pelo que faço! Formado em **Análise e Desenvolvimento de Sistemas - FATEC** em 2025, já atuei como UX/UI Designer, Desenvolvedor Front-End, Ciberssegurança e hoje me encontro trabalhando na area que mais amo!
+Sou um **Analista de Dados** focado e apaixonado pelo que faço! Formado em **Análise e Desenvolvimento de Sistemas - FATEC** em 2025, já atuei como UX/UI Designer, Desenvolvedor Front-End e hoje me encontro trabalhando na area que mais amo!
 
 ---
 
