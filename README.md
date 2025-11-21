@@ -11,7 +11,8 @@ Sou um **Analista de Dados** focado e apaixonado pelo que faço! Formado em **An
 
 ## ⚙️ Ferramentas Atuais
 Apaixonado por transformar caos em clareza, para isso utilizo:
-- **Excel avançado** (limpeza, tratamento e automações)
+- **Excel** (limpeza, tratamento e automações)
+- **Figma** (prototipação de dashboards em alta qualidade)
 
 <br>
 
