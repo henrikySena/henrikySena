@@ -5,8 +5,7 @@ Sou um **Analista de Dados** focado e apaixonado pelo que faço! Formado em **An
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark&line=37DA75&point=37DA75&text_color=37DA75&color=37DA75)
 
 
 ## ⚙️ Ferramentas Atuais
@@ -20,7 +19,7 @@ Apaixonado por transformar caos em clareza, para isso utilizo:
 
 - **🧱Projeto 01: Materiais de Construção:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_01_Materiais_de_Construcao) — Análise exploratória de vendas de uma loja de materiais de construção local, incluindo limpeza de dados, KPIs, tabelas dinâmicas e gráficos.
   
-- **🚜 Projeto 02: Produção Agrícola:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_02_Producao_Agricola) - Dataset bruto preparado para início das análises exploratórias.
+- **🌾 Projeto 02: Produção Agrícola:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_02_Producao_Agricola) - Dataset bruto preparado para início das análises exploratórias.
 
 <br>
 
