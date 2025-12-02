@@ -5,7 +5,7 @@ Sou um **Analista de Dados** focado e apaixonado pelo que faço! Formado em **An
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark&line=37DA75&point=37DA75&text_color=37DA75&color=37DA75)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark&line=FFAE00&point=FFAE00&text_color=FFAE00&color=FFAE00)
 
 
 ## ⚙️ Ferramentas Atuais
