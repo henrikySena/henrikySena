@@ -19,7 +19,7 @@ Apaixonado por transformar caos em clareza, para isso utilizo:
 
 - **🧱 Projeto 01: Materiais de Construção:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_01_Materiais_de_Construcao) — Análise exploratória de vendas de uma loja de materiais de construção local, incluindo limpeza de dados, KPIs, tabelas dinâmicas e gráficos.
   
-- **🚜 Projeto 02: Produção Agrícola:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_02_Producao_Agricola) - *Processo atual:* Desenvolvimento dos Dashboards e Relatórios.
+- **🚜 Projeto 02: Produção Agrícola:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_02_Producao_Agricola) - EDA de um dataset agrícola fictício, com limpeza de dados, criação de métricas, análise de produtividade, qualidade das safras, custos, lucratividade e construção de KPIs e dashboards.
 
 
 <br>
