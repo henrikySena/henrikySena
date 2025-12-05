@@ -17,11 +17,11 @@ Apaixonado por transformar caos em clareza, para isso utilizo:
 
 ## 📉 Projetos
 
-- **🧱 Projeto 01 - Materiais de Construção:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_01_Materiais_de_Construcao) — Análise exploratória de vendas de uma loja de materiais de construção local, incluindo limpeza de dados, KPIs, tabelas dinâmicas e gráficos.
+- **🧱 Projeto 01 - Materiais de Construção:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_01_Materiais_de_Construcao) — Análise exploratória de vendas de uma loja de materiais de construção local, incluindo limpeza de dados, KPIs, tabelas dinâmicas e gráficos - **[Excel e Figma]**.
   
-- **🌾 Projeto 02 - Produção Agrícola:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_02_Producao_Agricola) - EDA de um dataset agrícola fictício, com limpeza de dados, criação de métricas, análise de produtividade, qualidade das safras, custos, lucratividade e construção de KPIs e dashboards.
+- **🌾 Projeto 02 - Produção Agrícola:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_02_Producao_Agricola) - EDA de um dataset agrícola fictício, com limpeza de dados, criação de métricas, análise de produtividade, qualidade das safras, custos, lucratividade e construção de KPIs e dashboards  - **[Excel e Figma]**.
 
-- **⚡ Projeto 03 **[BIGDATA]** - Consumo Elétrico (BDGD / ANEEL) :** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_03_Consumo_Eletrico) — *[Em desenvolvimento]*  Análise da distribuição e consumo de energia elétrica no Brasil, utilizando dados oficiais da ANEEL (BDGD). O projeto abrange três níveis de tensão (alta, média e baixa), explorando os processos de EDA em PowerBI, SQL e Python.
+- **⚡ Projeto 03 **[BIGDATA]** - Consumo Elétrico:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_03_Consumo_Eletrico) — *[Em desenvolvimento]*  Análise da distribuição e consumo de energia elétrica no Brasil, utilizando dados oficiais da ANEEL (BDGD). O projeto abrange três níveis de tensão (alta, média e baixa), explorando os processos de EDA - **[PowerBI, SQL e Python]**.
 
 
 
