@@ -10,8 +10,10 @@ Sou um **Analista de Dados** focado e apaixonado pelo que faço! Formado em **An
 
 ## ⚙️ Ferramentas Atuais
 Apaixonado por transformar caos em clareza, para isso utilizo:
-- **Excel** (limpeza, tratamento e automações)
-- **Figma** (prototipação de dashboards em alta qualidade)
+
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel) 
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
 
 <br>
 
