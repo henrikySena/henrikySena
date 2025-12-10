@@ -30,7 +30,7 @@ Apaixonado por transformar caos em clareza, para isso utilizo:
 
 <br>
 
-- **⚡ Projeto 03 **[BIGDATA]** - Consumo Elétrico:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_03_Consumo_Eletrico) - *[Em desenvolvimento]*  Análise da distribuição e consumo de energia elétrica no Brasil, utilizando dados oficiais da ANEEL (BDGD). O projeto abrange três níveis de tensão (alta, média e baixa), explorando os processos de EDA - **[PowerBI, SQL e Python]**.
+- **🔌 Projeto 03 **[BIGDATA]** - Consumo Elétrico:** [Acesse o projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_03_Consumo_Eletrico) - *[Em desenvolvimento]*  Análise da distribuição e consumo de energia elétrica no Brasil, utilizando dados oficiais da ANEEL (BDGD). O projeto abrange três níveis de tensão (alta, média e baixa), explorando os processos de EDA - **[PowerBI, SQL e Python]**.
 
 
 
