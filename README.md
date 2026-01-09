@@ -38,7 +38,7 @@ Apaixonado por transformar caos em clareza, para isso utilizo:
 
 ## 📫 Contato
 - **LinkedIn:** *https://www.linkedin.com/in/henriky-sena-643010234/*
-- **Email:** *henriky.sena55@gmail.com*
+- **Email:** *senahsr55@gmail.com*
 
 ---
 
