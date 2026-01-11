@@ -5,7 +5,7 @@
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark&line=0091F9&point=0091F9&text_color=0091F9&color=0091F9)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark&line=1E90FF&point=1E90FF&text_color=1E90FF&color=1E90FF)
 
 
 ## ⚙️ Ferramentas Atuais
