@@ -8,8 +8,6 @@ Atuei como **UX/UI Designer** e **Desenvolvedor Front-End**, o que fortaleceu mi
 
 Atualmente, foco em **EDA, estruturação de dados e documentação metodológica**.
 
----
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark&line=1E90FF&point=1E90FF&text_color=1E90FF&color=1E90FF)
 
 
@@ -42,6 +40,7 @@ Análise exploratória e estrutural da base **BDGD/ANEEL**, cobrindo unidades co
 🔗 **[Acessar projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_03_Consumo_Eletrico)**  
 📌 *Status: Em desenvolvimento*
 
+---
 <br>
 
 ## Projetos Aplicados
