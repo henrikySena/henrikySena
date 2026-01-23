@@ -6,17 +6,15 @@ Transformo dados brutos em análises claras, documentadas e reprodutíveis.
 Sou Analista de Dados, formado em **Análise e Desenvolvimento de Sistemas (FATEC, 2025)**.  
 Atuei como **UX/UI Designer** e **Desenvolvedor Front-End**, o que fortaleceu minha visão de **usabilidade, narrativa visual e clareza analítica**.
 
-Atualmente, foco em **EDA, estruturação de dados e documentação metodológica**, priorizando o entendimento profundo dos dados antes da visualização.
+Atualmente, foco em **EDA, estruturação de dados e documentação metodológica**.
 
 ---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark&line=1E90FF&point=1E90FF&text_color=1E90FF&color=1E90FF)
 
----
 
-## ⚙️ Ferramentas & Abordagem
-
-Utilizo ferramentas como meio — não como fim — sempre priorizando **consistência**, **rastreabilidade** e **clareza analítica**.
+## ⚙️ Ferramentas
+Apaixonado por transformar caos em clareza, para isso utilizo:
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -24,9 +22,9 @@ Utilizo ferramentas como meio — não como fim — sempre priorizando **consist
 ![SQL](https://img.shields.io/badge/SQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
 
----
+<br>
 
-## 🌟 Projeto em Destaque
+## ⭐ Projeto em Destaque
 
 ### 🔌 Projeto 03 — Distribuição e Consumo Elétrico no Brasil (BIG DATA)
 
@@ -44,9 +42,9 @@ Análise exploratória e estrutural da base **BDGD/ANEEL**, cobrindo unidades co
 🔗 **[Acessar projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_03_Consumo_Eletrico)**  
 📌 *Status: Em desenvolvimento*
 
----
+<br>
 
-## 🌳 Projetos Aplicados
+## Projetos Aplicados
 
 ### 🧱 Projeto 01 — Materiais de Construção
 
@@ -61,7 +59,7 @@ Análise exploratória de vendas de uma loja local, com foco em:
 🛠️ **Excel • Figma**  
 🔗 [Acessar projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_01_Materiais_de_Construcao)
 
----
+<br>
 
 ### 🌾 Projeto 02 — Produção Agrícola
 
@@ -77,6 +75,7 @@ EDA de um dataset agrícola fictício, explorando:
 🔗 [Acessar projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_02_Producao_Agricola)
 
 ---
+<br>
 
 ## 📫 Contato
 
