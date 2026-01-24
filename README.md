@@ -62,7 +62,7 @@ Análise exploratória de vendas de uma loja local, com foco em:
 
 ### 🌾 Projeto 02 — Produção Agrícola
 
-<img src="Projeto_02_Producao_Agricola/assets/dashboard_projeto02.png" alt="Projeto 02 - Produção Agrícola" width="85%"/>
+<img src="projeto_02.png" alt="Projeto 02 - Produção Agrícola" width="85%"/>
 
 EDA de um dataset agrícola fictício, explorando:
 - produtividade das safras  
