@@ -83,4 +83,4 @@ EDA de um dataset agrícola fictício, explorando:
 
 ---
 
-<p align="center"><i>Clareza antes da visualização. Consistência antes da escala.</i></p>
+<p align="center"><i>Foco, clareza e consistência.</i></p>
