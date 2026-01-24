@@ -8,7 +8,7 @@ Atuei como **UX/UI Designer** e **Desenvolvedor Front-End**, o que fortaleceu mi
 
 Atualmente, foco em **EDA, estruturação de dados e documentação metodológica**.
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark&line=1E90FF&point=1E90FF&text_color=1E90FF&color=1E90FF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark&line=8B5DFF&point=8B5DFF&text_color=8B5DFF&color=8B5DFF)
 
 
 ## ⚙️ Ferramentas
