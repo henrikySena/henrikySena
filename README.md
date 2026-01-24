@@ -45,7 +45,7 @@ Análise exploratória e estrutural da base **BDGD/ANEEL**, cobrindo unidades co
 
 ## Projetos Aplicados
 
-### 🧱 Projeto 01 — Materiais de Construção
+###  🏗️  Projeto 01 — Materiais de Construção
 
 <img src="projeto_01.png" alt="Projeto 01 - Materiais de Construção" width="100%"/>
 
