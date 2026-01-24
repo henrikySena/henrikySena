@@ -47,7 +47,7 @@ Análise exploratória e estrutural da base **BDGD/ANEEL**, cobrindo unidades co
 
 ### 🧱 Projeto 01 — Materiais de Construção
 
-<img src="projeto_01.png" alt="Projeto 01 - Materiais de Construção" width="85%"/>
+<img src="projeto_01.png" alt="Projeto 01 - Materiais de Construção" width="100%"/>
 
 Análise exploratória de vendas de uma loja local, com foco em:
 - limpeza e organização dos dados  
@@ -62,7 +62,7 @@ Análise exploratória de vendas de uma loja local, com foco em:
 
 ### 🌾 Projeto 02 — Produção Agrícola
 
-<img src="projeto_02(1).png" alt="Projeto 02 - Produção Agrícola" width="85%"/>
+<img src="projeto_02.png" alt="Projeto 02 - Produção Agrícola" width="100%"/>
 
 EDA de um dataset agrícola fictício, explorando:
 - produtividade das safras  
