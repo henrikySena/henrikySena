@@ -26,7 +26,7 @@ Apaixonado por transformar caos em clareza, para isso utilizo:
 
 ### 🔌 Projeto 03 — Distribuição e Consumo Elétrico no Brasil (BIG DATA)
 
-<img src="Projeto_03_Consumo_Eletrico/assets/capa_projeto03.png" alt="Projeto 03 - Consumo Elétrico no Brasil" width="100%"/>
+<img src="projeto_03.png" alt="Projeto 03 - Consumo Elétrico no Brasil" width="100%"/>
 
 Análise exploratória e estrutural da base **BDGD/ANEEL**, cobrindo unidades consumidoras de **alta, média e baixa tensão**.
 
