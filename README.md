@@ -78,7 +78,7 @@ EDA de um dataset agrícola fictício, explorando:
 
 ## 📫 Contato
 
-- **LinkedIn:** https://www.linkedin.com/in/henriky-sena-643010234  
+- **LinkedIn:** https://www.linkedin.com/in/henriky-sena 
 - **Email:** senahsr55@gmail.com  
 
 ---
