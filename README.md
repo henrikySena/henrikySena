@@ -66,8 +66,8 @@ Análise exploratória de vendas de uma loja local, com foco em:
 
 EDA de um dataset agrícola fictício, explorando:
 - produtividade das safras  
-- qualidade e custos  
-- lucratividade  
+- qualidade, custos e lucratividade
+- insights e teste de hipóteses
 - construção de métricas e KPIs  
 
 🛠️ **Excel • Figma**  
