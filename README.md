@@ -47,7 +47,7 @@ Análise exploratória e estrutural da base **BDGD/ANEEL**, cobrindo unidades co
 
 ### 🧱 Projeto 01 — Materiais de Construção
 
-<img src="Projeto_01_Materiais_de_Construcao/assets/dashboard_projeto01.png" alt="Projeto 01 - Materiais de Construção" width="85%"/>
+<img src="projeto_01.png" alt="Projeto 01 - Materiais de Construção" width="85%"/>
 
 Análise exploratória de vendas de uma loja local, com foco em:
 - limpeza e organização dos dados  
