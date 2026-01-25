@@ -3,7 +3,7 @@
 ### Analista de Dados | Excel • SQL • Python • Power BI  
 Transformo dados brutos em análises claras, documentadas e reproduzíveis.
 
-Sou Analista de Dados, formado em **Análise e Desenvolvimento de Sistemas (FATEC, 2025)**.  
+Sou Analista de Dados, formado em **Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São Paulo - FATECSP, em 2025**.  
 Atuei como **UX/UI Designer** e **Desenvolvedor Front-End**, o que fortaleceu minha visão de **usabilidade, narrativa visual e clareza analítica**.
 
 Atualmente, foco em **EDA, estruturação de dados e documentação metodológica**.
