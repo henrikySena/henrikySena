@@ -10,6 +10,7 @@ Atualmente, foco em **EDA, estruturação de dados e documentação metodológic
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark&line=8B5DFF&point=8B5DFF&text_color=8B5DFF&color=8B5DFF)
 
+---
 
 ## ⚙️ Ferramentas
 Apaixonado por transformar caos em clareza, para isso utilizo:
@@ -22,11 +23,13 @@ Apaixonado por transformar caos em clareza, para isso utilizo:
 
 <br>
 
+---
+
 ## ⭐ Projeto em Destaque
 
 ### 🔌 Projeto 03 — Distribuição e Consumo Elétrico no Brasil (BIG DATA)
 
-<img src="projeto_03.png" alt="Projeto 03 - Consumo Elétrico no Brasil" width="100%"/>
+[<img src="projeto_03.png" alt="Projeto 03 - Consumo Elétrico no Brasil" width="100%"/>](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_03_Consumo_Eletrico)
 
 Análise exploratória e estrutural da base **BDGD/ANEEL**, cobrindo unidades consumidoras de **alta, média e baixa tensão**.
 
@@ -34,52 +37,56 @@ Análise exploratória e estrutural da base **BDGD/ANEEL**, cobrindo unidades co
 - preservação integral do dado bruto  
 - validação estrutural dos datasets  
 - documentação analítica contínua  
-- construção de modelo mental antes da visualização  
+- construção de modelo mental antes da visualização
 
 🛠️ **Power BI • PostgreSQL • Python**  
 🔗 **[Acessar projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_03_Consumo_Eletrico)**  
 📌 *Status: Em desenvolvimento*
 
----
 <br>
 
-## Projetos Aplicados
+---
 
-###  🏗️  Projeto 01 — Materiais de Construção
+## 📊 Projetos Aplicados
 
-<img src="projeto_01.png" alt="Projeto 01 - Materiais de Construção" width="100%"/>
+### 🏗️ Projeto 01 — Materiais de Construção
+
+[<img src="projeto_01.png" alt="Projeto 01 - Materiais de Construção" width="100%"/>](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_01_Materiais_de_Construcao)
 
 Análise exploratória de vendas de uma loja local, com foco em:
 - limpeza e organização dos dados  
 - definição de KPIs  
 - tabelas dinâmicas  
-- dashboards analíticos  
+- dashboards analíticos
 
 🛠️ **Excel • Figma**  
 🔗 [Acessar projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_01_Materiais_de_Construcao)
 
 <br>
 
+---
+
 ### 🌾 Projeto 02 — Produção Agrícola
 
-<img src="projeto_02.png" alt="Projeto 02 - Produção Agrícola" width="100%"/>
+[<img src="projeto_02.png" alt="Projeto 02 - Produção Agrícola" width="100%"/>](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_02_Producao_Agricola)
 
 EDA de um dataset agrícola fictício, explorando:
 - produtividade das safras  
-- qualidade, custos e lucratividade
-- insights e teste de hipóteses
-- construção de métricas e KPIs  
+- qualidade, custos e lucratividade  
+- insights e teste de hipóteses  
+- construção de métricas e KPIs
 
 🛠️ **Excel • Figma**  
 🔗 [Acessar projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_02_Producao_Agricola)
 
----
 <br>
+
+---
 
 ## 📫 Contato
 
-- **LinkedIn:** https://www.linkedin.com/in/henriky-sena 
-- **Email:** senahsr55@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/henriky-sena  
+- **Email:** senahsr55@gmail.com
 
 ---
 
