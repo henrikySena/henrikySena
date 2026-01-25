@@ -1,7 +1,7 @@
 # Henriky Sena
 
 ### Analista de Dados | Excel • SQL • Python • Power BI  
-Transformo dados brutos em análises claras, documentadas e reprodutíveis.
+Transformo dados brutos em análises claras, documentadas e reproduzíveis.
 
 Sou Analista de Dados, formado em **Análise e Desenvolvimento de Sistemas (FATEC, 2025)**.  
 Atuei como **UX/UI Designer** e **Desenvolvedor Front-End**, o que fortaleceu minha visão de **usabilidade, narrativa visual e clareza analítica**.
