@@ -1,93 +1,59 @@
 # Henriky Sena
 
-### Analista de Dados | Excel • SQL • Python • Power BI  
-Transformo dados brutos em análises claras, documentadas e reproduzíveis.
+Estudos e projetos em tecnologia.
 
-Sou Analista de Dados, formado em **Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São Paulo - FATECSP, em 2025**.  
-Atuei como **UX/UI Designer** e **Desenvolvedor Front-End**, o que fortaleceu minha visão de **usabilidade, narrativa visual e clareza analítica**.
+Formado em Análise e Desenvolvimento de Sistemas (FATEC-SP, 2025).  
+Experiência anterior com UX/UI e desenvolvimento front-end.
 
-Atualmente, foco em **EDA, estruturação de dados e documentação metodológica**.
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrikysena&theme=github-dark&line=8B5DFF&point=8B5DFF&text_color=8B5DFF&color=8B5DFF)
+Este repositório concentra anotações, exercícios e projetos organizados para estudo contínuo.
 
 ---
 
-## ⚙️ Ferramentas
-Apaixonado por transformar caos em clareza, para isso utilizo:
+## Áreas de Estudo
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
-
-<br>
-
----
-
-## ⭐ Projeto em Destaque
-
-### 🔌 Projeto 03 — Distribuição e Consumo Elétrico no Brasil (BIG DATA)
-
-[<img src="projeto_03.png" alt="Projeto 03 - Consumo Elétrico no Brasil" width="100%"/>](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_03_Consumo_Eletrico)
-
-Análise exploratória e estrutural da base **BDGD/ANEEL**, cobrindo unidades consumidoras de **alta, média e baixa tensão**.
-
-**Foco metodológico:**
-- preservação integral do dado bruto  
-- validação estrutural dos datasets  
-- documentação analítica contínua  
-- construção de modelo mental antes da visualização
-
-🛠️ **Power BI • PostgreSQL • Python**  
-🔗 **[Acessar projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_03_Consumo_Eletrico)**  
-📌 *Status: Em desenvolvimento*
-
-<br>
+| Cybersecurity / Cloud        | Análise de Dados              | Desenvolvimento        |
+|-----------------------------|-------------------------------|-------------------------|
+| Redes e Protocolos           | EDA                           | Python                  |
+| Linux                        | SQL / PostgreSQL              | Automação               |
+| AWS                          | Power BI                      | Web Básica              |
+| Segurança em Nuvem           | Modelagem de Dados            | Scripts                 |
+| Laboratórios (Labs)          | Documentação                  | APIs / Ferramentas      |
 
 ---
 
-## 📊 Projetos Aplicados
+## Projetos
 
-### 🏗️ Projeto 01 — Materiais de Construção
-
-[<img src="projeto_01.png" alt="Projeto 01 - Materiais de Construção" width="100%"/>](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_01_Materiais_de_Construcao)
-
-Análise exploratória de vendas de uma loja local, com foco em:
-- limpeza e organização dos dados  
-- definição de KPIs  
-- tabelas dinâmicas  
-- dashboards analíticos
-
-🛠️ **Excel • Figma**  
-🔗 [Acessar projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_01_Materiais_de_Construcao)
-
-<br>
+| Projeto | Área | Descrição | Ferramentas | Status |
+|---------|------|-----------|-------------|--------|
+| Projeto 03 — Consumo Elétrico (ANEEL) | Dados | Análise estrutural e exploratória da base BDGD | Power BI · PostgreSQL · Python | Em desenvolvimento |
+| Projeto 01 — Materiais de Construção | Dados | Análise de vendas e definição de KPIs | Excel · Figma | Concluído |
+| Projeto 02 — Produção Agrícola | Dados | EDA e análise de produtividade | Excel · Figma | Concluído |
 
 ---
 
-### 🌾 Projeto 02 — Produção Agrícola
+## Ferramentas
 
-[<img src="projeto_02.png" alt="Projeto 02 - Produção Agrícola" width="100%"/>](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_02_Producao_Agricola)
-
-EDA de um dataset agrícola fictício, explorando:
-- produtividade das safras  
-- qualidade, custos e lucratividade  
-- insights e teste de hipóteses  
-- construção de métricas e KPIs
-
-🛠️ **Excel • Figma**  
-🔗 [Acessar projeto](https://github.com/henrikySena/EDA-Analises_Exploratorias/tree/main/Projeto_02_Producao_Agricola)
-
-<br>
+Excel · Python · SQL · PostgreSQL · Power BI · AWS · Linux · Git · Figma
 
 ---
 
-## 📫 Contato
+## Repositórios de Estudo
 
-- **LinkedIn:** https://www.linkedin.com/in/henriky-sena  
-- **Email:** senahsr55@gmail.com
+| Repositório | Área | Conteúdo |
+|-------------|------|----------|
+| cybersecurity-foundations | Cyber | Fundamentos de segurança e redes |
+| aws-labs | Cloud | Exercícios práticos em AWS |
+| networking-basics | Redes | Protocolos e arquitetura |
+| study-notes | Geral | Anotações técnicas |
+| EDA-Analises_Exploratorias | Dados | Projetos e estudos exploratórios |
 
 ---
 
-<p align="center"><i>Foco, clareza e consistência.</i></p>
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/henriky-sena  
+- Email: senahsr55@gmail.com
+
+---
+
+> Organização, consistência e estudo c
