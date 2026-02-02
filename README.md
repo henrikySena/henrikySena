@@ -17,13 +17,14 @@ Este repositório contempla anotações, exercícios e projetos organizados como
 
 ## Áreas de Estudo
 
-| Cybersecurity / Cloud        | Análise de Dados              | Desenvolvimento        |
-|-----------------------------|-------------------------------|-------------------------|
-| Redes e Protocolos           | EDA                           | Python                  |
-| Linux                        | SQL / PostgreSQL              | Automação               |
-| AWS                          | Power BI                      | Web Básica              |
-| Segurança em Nuvem           | Modelagem de Dados            | Scripts                 |
-| Laboratórios (Labs)          | Documentação                  | APIs / Ferramentas      |
+| Cybersecurity | Análise de Dados | Desenvolvimento |
+|---------------|-----------------|-----------------|
+| [Pentests: Testes de Intrusão em Ambientes Controlados](...) | [EDA – Análises Exploratórias e Relatórios Executivos](...) | [Swampp – E-commerce Desenvolvido em JS Vanilla](...) |
+<!--
+| Monitoramento e Análise de Logs | Dashboards e Métricas | APIs REST |
+| SIEM / Observabilidade | Modelagem Estatística | Scripts em Python |
+-->
+
 
 <br>
 
