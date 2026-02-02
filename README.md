@@ -1,13 +1,19 @@
-# Henriky Sena
+## Henriky Sena 
 
-Estudos e projetos em tecnologia.
+Formado em Análise e Desenvolvimento de Sistemas (FATEC-SP, 2025).
 
-Formado em Análise e Desenvolvimento de Sistemas (FATEC-SP, 2025).  
-Experiência anterior com UX/UI e desenvolvimento front-end.
+Estágio realizado na Prefeitura Municipal de Ferraz de Vasconcelos, com atuação em:
+- Suporte técnico  
+- Desenvolvimento front-end  
+- Web e UX/UI design  
+- Administração de bases de dados públicas  
+- Documentação técnica voltada à segurança da informação em órgãos públicos  
 
-Este repositório concentra anotações, exercícios e projetos organizados para estudo contínuo.
+Este repositório contempla anotações, exercícios e projetos organizados como forma de estudo contínuo.
+
 
 ---
+<br>
 
 ## Áreas de Estudo
 
@@ -19,9 +25,24 @@ Este repositório concentra anotações, exercícios e projetos organizados para
 | Segurança em Nuvem           | Modelagem de Dados            | Scripts                 |
 | Laboratórios (Labs)          | Documentação                  | APIs / Ferramentas      |
 
----
+<br>
 
-## Projetos
+## Ferramentas
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+<br>
+
+## Últimos Projetos
 
 | Projeto | Área | Descrição | Ferramentas | Status |
 |---------|------|-----------|-------------|--------|
@@ -29,25 +50,7 @@ Este repositório concentra anotações, exercícios e projetos organizados para
 | Projeto 01 — Materiais de Construção | Dados | Análise de vendas e definição de KPIs | Excel · Figma | Concluído |
 | Projeto 02 — Produção Agrícola | Dados | EDA e análise de produtividade | Excel · Figma | Concluído |
 
----
-
-## Ferramentas
-
-Excel · Python · SQL · PostgreSQL · Power BI · AWS · Linux · Git · Figma
-
----
-
-## Repositórios de Estudo
-
-| Repositório | Área | Conteúdo |
-|-------------|------|----------|
-| cybersecurity-foundations | Cyber | Fundamentos de segurança e redes |
-| aws-labs | Cloud | Exercícios práticos em AWS |
-| networking-basics | Redes | Protocolos e arquitetura |
-| study-notes | Geral | Anotações técnicas |
-| EDA-Analises_Exploratorias | Dados | Projetos e estudos exploratórios |
-
----
+<br>
 
 ## Contato
 
