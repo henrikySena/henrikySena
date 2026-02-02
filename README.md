@@ -55,7 +55,7 @@ Este repositório contempla anotações, exercícios e projetos organizados como
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/henriky-sena  
+- LinkedIn: [in/henriky-sena](https://www.linkedin.com/in/henriky-sena)  
 - Email: senahsr55@gmail.com
 
 ---
