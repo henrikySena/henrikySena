@@ -19,7 +19,7 @@ Este repositório contempla anotações, exercícios e projetos organizados como
 
 | Cybersecurity | Análise de Dados | Desenvolvimento |
 |---------------|-----------------|-----------------|
-| [Pentests: Testes de Intrusão em Ambientes Controlados](...) | [EDA – Análises Exploratórias e Relatórios Executivos](...) | [Swampp – E-commerce Desenvolvido em JS Vanilla](...) |
+| [Pentests: Testes de Intrusão em Ambientes Controlados](https://github.com/henrikySena/pentests) | [EDA – Análises Exploratórias e Relatórios Executivos](https://github.com/henrikySena/EDA-Analises_Exploratorias) | [Swampp – E-commerce Desenvolvido em JS Vanilla](https://github.com/henrikySena/swampp) |
 <!--
 | Monitoramento e Análise de Logs | Dashboards e Métricas | APIs REST |
 | SIEM / Observabilidade | Modelagem Estatística | Scripts em Python |
