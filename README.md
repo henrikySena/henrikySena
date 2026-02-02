@@ -56,4 +56,4 @@ Excel · Python · SQL · PostgreSQL · Power BI · AWS · Linux · Git · Figma
 
 ---
 
-> Organização, consistência e estudo c
+> 🪐
