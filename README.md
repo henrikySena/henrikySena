@@ -3,12 +3,12 @@
 Formado em Análise e Desenvolvimento de Sistemas (FATEC-SP, 2025).
 
 Estágio realizado na Prefeitura Municipal de Ferraz de Vasconcelos, com atuação em:
-- Suporte técnico  
-- Desenvolvimento front-end  
-- Web e UX/UI design  
-- Administração de bases de dados públicas  
-- Documentação técnica voltada à segurança da informação em órgãos públicos  
-
+> - Suporte técnico  
+> - Desenvolvimento front-end  
+> - Web e UX/UI design  
+> - Administração de bases de dados públicas  
+> - Documentação técnica voltada à segurança da informação em órgãos públicos  
+<br>
 Este repositório contempla anotações, exercícios e projetos organizados como forma de estudo contínuo.
 
 
