@@ -17,8 +17,8 @@ Este repositório contempla anotações, exercícios e projetos organizados como
 
 ## Áreas de Estudo
 
-| Cybersecurity | Análise de Dados | Desenvolvimento |
-|---------------|-----------------|-----------------|
+| Ciberssegurança | Análise de Dados | Desenvolvimento |
+|-----------------|------------------|-----------------|
 | [Pentests: Testes de Intrusão em Ambientes Controlados](https://github.com/henrikySena/pentests) | [EDA – Análises Exploratórias e Relatórios Executivos](https://github.com/henrikySena/EDA-Analises_Exploratorias) | [Swampp – E-commerce Desenvolvido em JS Vanilla](https://github.com/henrikySena/swampp) |
 <!--
 | Monitoramento e Análise de Logs | Dashboards e Métricas | APIs REST |
