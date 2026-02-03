@@ -11,7 +11,6 @@ Estágio realizado na Prefeitura Municipal de Ferraz de Vasconcelos, com atuaç�
 <br>
 Este repositório contempla anotações, exercícios e projetos organizados como forma de estudo contínuo.
 
-
 ---
 <br>
 
